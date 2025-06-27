@@ -1,5 +1,6 @@
 
 import reactImg from '../assets/react.svg'
+import './Header.css'
 
 function CoreConcept(props){
   return(

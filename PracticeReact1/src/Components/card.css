@@ -1,0 +1,14 @@
+
+#card{
+    background-color: aqua;
+    border: 2px solid black;
+    border-radius: 10px;
+}
+
+span{
+    color: brown;
+    font-weight: 500;
+}
+#card:hover{
+    background-color: yellowgreen;
+}
